@@ -1,2 +1,3 @@
 # MOOD_MUSIC_RECOMMENDATION
-Created with CodeSandbox
+
+A music recommendation app based on your mood made with ReactJS.
